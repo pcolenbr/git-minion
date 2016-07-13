@@ -12,3 +12,7 @@ puts "13xBanana!"
 puts "14xBanana!"
 puts "15xBanana!"
 puts "16xBanana!"
+puts "17xBanana!"
+puts "18xBanana!"
+
+puts "All minions are ugly"
