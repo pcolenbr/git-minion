@@ -17,3 +17,4 @@ puts "18xBanana!"
 
 puts "All minions are cool"
 puts "All minions are ugly"
+puts "All minions are high"
