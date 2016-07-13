@@ -14,3 +14,5 @@ puts "15xBanana!"
 puts "16xBanana!"
 puts "17xBanana!"
 puts "18xBanana!"
+
+puts "All minions are cool"
